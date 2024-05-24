@@ -1,3 +1,8 @@
+<!-- Avatar Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=choohen4X&label=Avatar+Views&color=blue" alt="Avatar Views">
+</p>
+
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/choohen4X">
@@ -14,7 +19,7 @@
 <!-- Social Links and Stats -->
 <p align="center">
   <a href="https://github.com/choohen4X">
-    <img src="https://img.shields.io/github/followers/choohen4X?label=Follow&style=flat-square&logo=github&color=success" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/choohen4X?label=Follow&style=flat-square&logo=github&color=blue" alt="GitHub followers">
   </a>
 </p>
 
