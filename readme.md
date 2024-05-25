@@ -6,7 +6,7 @@
 <!-- Header -->
 <p align="center">
   <a href="https://github.com/choohen4X">
-    <img src="https://github.com/choohen4X/choohen4X/blob/main/logo.png">
+    <img src="https://github.com/choohen4X/choohen4X/blob/main/Image.png">
   </a>
 </p>
 
