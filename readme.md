@@ -70,7 +70,7 @@
 <!-- Spotlighted Creations -->
 <h2 align="center" style="color:#7109AA;">🚀 Spotlighted Creations</h2>
 <p align="center">
-  <a href="https://github.com/choohen4X/onion-websites">
+  <a href="https://github.com/choohen4X/Onion-Fresh-Links">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=choohen4X&repo=Onion-Fresh-Links&theme=vision-friendly-dark" alt="Onion-Fresh-Links">
   </a>
   <a href="https://github.com/choohen4X/choohen4X">
