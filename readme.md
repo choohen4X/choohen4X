@@ -13,7 +13,7 @@
 <!-- Unique Header -->
 <div align="center" style="background-color: #191A1F; padding: 30px;">
   <h1 style="color: #ECEFF4; font-size: 36px; font-weight: bold;">🚀 Welcome to choohen4X's Space</h1>
-  <p style="color: #A3BE8C; font-size: 18px;">Exploring the digital universe, one commit at a time!</p>
+  <p style="color: #A3BE8C; font-size: 18px;">"Charting the Digital Cosmos, Commit by Commit!"</p>
 </div>
 
 <!-- Social Links and Stats -->
@@ -25,7 +25,7 @@
 
 <!-- Intro Text -->
 <p align="center">
-  <em>🌌 "In the vastness of code, let's create our own constellations."</em>
+  <em>"Amidst the Code Cosmos, Let's Sculpt Our Unique Constellations."</em>
 </p>
 
 <!-- Skills Showcase -->
